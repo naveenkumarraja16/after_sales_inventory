@@ -1,0 +1,1821 @@
+Date,Product Name,Region,Quantity
+2023-01-01,silenser,Bangalore,39
+2023-01-01,Engine,kerala,75
+2023-01-01,Transmission,kolkata,59
+2023-01-01,Brake Pads,kerala,83
+2023-01-01,Alternator,Bangalore,86
+2023-01-01,Starter Motor,Delhi,94
+2023-01-01,Suspension System,rajasthan,0
+2023-01-01,Fuel Pump,kerala,57
+2023-01-01,Exhaust System,Mangalore,49
+2023-01-01,Battery,chennai,31
+2023-01-02,silenser,mumbai,94
+2023-01-02,Engine,kerala,76
+2023-01-02,Transmission,kolkata,13
+2023-01-02,Brake Pads,chennai,8
+2023-01-02,Alternator,rajasthan,97
+2023-01-02,Starter Motor,kolkata,26
+2023-01-02,Suspension System,rajasthan,22
+2023-01-02,Fuel Pump,kerala,99
+2023-01-02,Exhaust System,kerala,90
+2023-01-02,Battery,rajasthan,73
+2023-01-03,silenser,Bangalore,50
+2023-01-03,Engine,punjab,67
+2023-01-03,Transmission,chennai,97
+2023-01-03,Brake Pads,kolkata,28
+2023-01-03,Alternator,punjab,42
+2023-01-03,Starter Motor,punjab,20
+2023-01-03,Suspension System,chennai,23
+2023-01-03,Fuel Pump,Bangalore,56
+2023-01-03,Exhaust System,chennai,15
+2023-01-03,Battery,chennai,21
+2023-01-04,silenser,punjab,96
+2023-01-04,Engine,chennai,77
+2023-01-04,Transmission,mumbai,13
+2023-01-04,Brake Pads,Delhi,48
+2023-01-04,Alternator,kerala,21
+2023-01-04,Starter Motor,kolkata,34
+2023-01-04,Suspension System,mumbai,92
+2023-01-04,Fuel Pump,Delhi,3
+2023-01-04,Exhaust System,Bangalore,79
+2023-01-04,Battery,kerala,54
+2023-01-05,silenser,Mangalore,36
+2023-01-05,Engine,kolkata,6
+2023-01-05,Transmission,rajasthan,87
+2023-01-05,Brake Pads,mumbai,42
+2023-01-05,Alternator,Bangalore,3
+2023-01-05,Starter Motor,mumbai,57
+2023-01-05,Suspension System,mumbai,19
+2023-01-05,Fuel Pump,kerala,22
+2023-01-05,Exhaust System,rajasthan,71
+2023-01-05,Battery,Delhi,20
+2023-01-06,silenser,chennai,59
+2023-01-06,Engine,kolkata,41
+2023-01-06,Transmission,mumbai,16
+2023-01-06,Brake Pads,mumbai,77
+2023-01-06,Alternator,punjab,72
+2023-01-06,Starter Motor,punjab,13
+2023-01-06,Suspension System,Delhi,96
+2023-01-06,Fuel Pump,kerala,75
+2023-01-06,Exhaust System,chennai,53
+2023-01-06,Battery,chennai,62
+2023-01-07,silenser,punjab,63
+2023-01-07,Engine,kerala,43
+2023-01-07,Transmission,rajasthan,59
+2023-01-07,Brake Pads,Mangalore,55
+2023-01-07,Alternator,Mangalore,93
+2023-01-07,Starter Motor,Mangalore,75
+2023-01-07,Suspension System,chennai,46
+2023-01-07,Fuel Pump,kerala,73
+2023-01-07,Exhaust System,Mangalore,22
+2023-01-07,Battery,kolkata,88
+2023-01-08,silenser,chennai,2
+2023-01-08,Engine,rajasthan,9
+2023-01-08,Transmission,chennai,65
+2023-01-08,Brake Pads,punjab,87
+2023-01-08,Alternator,mumbai,49
+2023-01-08,Starter Motor,mumbai,69
+2023-01-08,Suspension System,punjab,63
+2023-01-08,Fuel Pump,chennai,91
+2023-01-08,Exhaust System,Mangalore,30
+2023-01-08,Battery,Bangalore,26
+2023-01-09,silenser,Mangalore,23
+2023-01-09,Engine,rajasthan,57
+2023-01-09,Transmission,kerala,6
+2023-01-09,Brake Pads,rajasthan,99
+2023-01-09,Alternator,Delhi,57
+2023-01-09,Starter Motor,kolkata,49
+2023-01-09,Suspension System,kolkata,60
+2023-01-09,Fuel Pump,Delhi,37
+2023-01-09,Exhaust System,Mangalore,70
+2023-01-09,Battery,chennai,9
+2023-01-10,silenser,kolkata,61
+2023-01-10,Engine,rajasthan,5
+2023-01-10,Transmission,kolkata,31
+2023-01-10,Brake Pads,chennai,29
+2023-01-10,Alternator,chennai,99
+2023-01-10,Starter Motor,Bangalore,60
+2023-01-10,Suspension System,kerala,80
+2023-01-10,Fuel Pump,chennai,42
+2023-01-10,Exhaust System,Mangalore,100
+2023-01-10,Battery,kerala,11
+2023-01-11,silenser,kolkata,29
+2023-01-11,Engine,kerala,94
+2023-01-11,Transmission,mumbai,15
+2023-01-11,Brake Pads,kolkata,39
+2023-01-11,Alternator,mumbai,27
+2023-01-11,Starter Motor,mumbai,64
+2023-01-11,Suspension System,kerala,84
+2023-01-11,Fuel Pump,kolkata,60
+2023-01-11,Exhaust System,kerala,33
+2023-01-11,Battery,Delhi,56
+2023-01-12,silenser,chennai,43
+2023-01-12,Engine,punjab,1
+2023-01-12,Transmission,kerala,20
+2023-01-12,Brake Pads,punjab,20
+2023-01-12,Alternator,Bangalore,12
+2023-01-12,Starter Motor,kolkata,61
+2023-01-12,Suspension System,Delhi,54
+2023-01-12,Fuel Pump,punjab,30
+2023-01-12,Exhaust System,Bangalore,66
+2023-01-12,Battery,rajasthan,37
+2023-01-13,silenser,rajasthan,58
+2023-01-13,Engine,punjab,42
+2023-01-13,Transmission,mumbai,83
+2023-01-13,Brake Pads,kerala,13
+2023-01-13,Alternator,Mangalore,73
+2023-01-13,Starter Motor,rajasthan,47
+2023-01-13,Suspension System,kerala,97
+2023-01-13,Fuel Pump,kerala,63
+2023-01-13,Exhaust System,punjab,56
+2023-01-13,Battery,kolkata,33
+2023-01-14,silenser,kerala,79
+2023-01-14,Engine,kerala,32
+2023-01-14,Transmission,Bangalore,53
+2023-01-14,Brake Pads,kolkata,14
+2023-01-14,Alternator,rajasthan,99
+2023-01-14,Starter Motor,rajasthan,13
+2023-01-14,Suspension System,kerala,18
+2023-01-14,Fuel Pump,kerala,49
+2023-01-14,Exhaust System,Bangalore,8
+2023-01-14,Battery,punjab,82
+2023-01-15,silenser,rajasthan,19
+2023-01-15,Engine,kerala,61
+2023-01-15,Transmission,Bangalore,53
+2023-01-15,Brake Pads,Mangalore,12
+2023-01-15,Alternator,Mangalore,33
+2023-01-15,Starter Motor,chennai,22
+2023-01-15,Suspension System,Delhi,49
+2023-01-15,Fuel Pump,Bangalore,54
+2023-01-15,Exhaust System,kolkata,62
+2023-01-15,Battery,Delhi,75
+2023-01-16,silenser,Mangalore,70
+2023-01-16,Engine,Mangalore,13
+2023-01-16,Transmission,kerala,55
+2023-01-16,Brake Pads,rajasthan,69
+2023-01-16,Alternator,Mangalore,12
+2023-01-16,Starter Motor,rajasthan,71
+2023-01-16,Suspension System,Mangalore,57
+2023-01-16,Fuel Pump,mumbai,92
+2023-01-16,Exhaust System,Mangalore,21
+2023-01-16,Battery,Bangalore,99
+2023-01-17,silenser,chennai,34
+2023-01-17,Engine,mumbai,23
+2023-01-17,Transmission,kolkata,92
+2023-01-17,Brake Pads,kerala,76
+2023-01-17,Alternator,Bangalore,18
+2023-01-17,Starter Motor,punjab,81
+2023-01-17,Suspension System,punjab,66
+2023-01-17,Fuel Pump,Delhi,31
+2023-01-17,Exhaust System,Delhi,18
+2023-01-17,Battery,mumbai,85
+2023-01-18,silenser,chennai,21
+2023-01-18,Engine,kerala,62
+2023-01-18,Transmission,kerala,50
+2023-01-18,Brake Pads,Delhi,3
+2023-01-18,Alternator,Delhi,37
+2023-01-18,Starter Motor,rajasthan,40
+2023-01-18,Suspension System,Mangalore,86
+2023-01-18,Fuel Pump,Delhi,91
+2023-01-18,Exhaust System,chennai,31
+2023-01-18,Battery,kerala,95
+2023-01-19,silenser,mumbai,17
+2023-01-19,Engine,Bangalore,27
+2023-01-19,Transmission,mumbai,51
+2023-01-19,Brake Pads,punjab,68
+2023-01-19,Alternator,mumbai,70
+2023-01-19,Starter Motor,kolkata,53
+2023-01-19,Suspension System,Bangalore,73
+2023-01-19,Fuel Pump,mumbai,35
+2023-01-19,Exhaust System,rajasthan,50
+2023-01-19,Battery,kerala,2
+2023-01-20,silenser,rajasthan,67
+2023-01-20,Engine,Delhi,25
+2023-01-20,Transmission,punjab,44
+2023-01-20,Brake Pads,Bangalore,19
+2023-01-20,Alternator,Delhi,71
+2023-01-20,Starter Motor,punjab,13
+2023-01-20,Suspension System,mumbai,58
+2023-01-20,Fuel Pump,mumbai,39
+2023-01-20,Exhaust System,chennai,0
+2023-01-20,Battery,punjab,48
+2023-01-21,silenser,rajasthan,17
+2023-01-21,Engine,Delhi,49
+2023-01-21,Transmission,mumbai,16
+2023-01-21,Brake Pads,kolkata,75
+2023-01-21,Alternator,Mangalore,77
+2023-01-21,Starter Motor,punjab,12
+2023-01-21,Suspension System,mumbai,54
+2023-01-21,Fuel Pump,punjab,36
+2023-01-21,Exhaust System,mumbai,91
+2023-01-21,Battery,punjab,0
+2023-01-22,silenser,Mangalore,55
+2023-01-22,Engine,Bangalore,51
+2023-01-22,Transmission,Mangalore,61
+2023-01-22,Brake Pads,mumbai,3
+2023-01-22,Alternator,chennai,69
+2023-01-22,Starter Motor,kerala,15
+2023-01-22,Suspension System,punjab,80
+2023-01-22,Fuel Pump,mumbai,54
+2023-01-22,Exhaust System,kolkata,83
+2023-01-22,Battery,Bangalore,7
+2023-01-23,silenser,punjab,26
+2023-01-23,Engine,rajasthan,36
+2023-01-23,Transmission,Delhi,30
+2023-01-23,Brake Pads,chennai,13
+2023-01-23,Alternator,punjab,51
+2023-01-23,Starter Motor,Bangalore,21
+2023-01-23,Suspension System,mumbai,13
+2023-01-23,Fuel Pump,punjab,43
+2023-01-23,Exhaust System,rajasthan,54
+2023-01-23,Battery,Mangalore,24
+2023-01-24,silenser,Delhi,39
+2023-01-24,Engine,mumbai,69
+2023-01-24,Transmission,kerala,37
+2023-01-24,Brake Pads,mumbai,39
+2023-01-24,Alternator,Delhi,50
+2023-01-24,Starter Motor,mumbai,26
+2023-01-24,Suspension System,mumbai,4
+2023-01-24,Fuel Pump,mumbai,69
+2023-01-24,Exhaust System,chennai,72
+2023-01-24,Battery,chennai,10
+2023-01-25,silenser,mumbai,97
+2023-01-25,Engine,chennai,96
+2023-01-25,Transmission,kolkata,70
+2023-01-25,Brake Pads,kerala,25
+2023-01-25,Alternator,Bangalore,94
+2023-01-25,Starter Motor,chennai,31
+2023-01-25,Suspension System,kolkata,28
+2023-01-25,Fuel Pump,chennai,90
+2023-01-25,Exhaust System,Mangalore,12
+2023-01-25,Battery,chennai,79
+2023-01-26,silenser,chennai,100
+2023-01-26,Engine,kerala,6
+2023-01-26,Transmission,rajasthan,86
+2023-01-26,Brake Pads,mumbai,0
+2023-01-26,Alternator,rajasthan,84
+2023-01-26,Starter Motor,mumbai,4
+2023-01-26,Suspension System,rajasthan,52
+2023-01-26,Fuel Pump,chennai,72
+2023-01-26,Exhaust System,rajasthan,51
+2023-01-26,Battery,Delhi,87
+2023-01-27,silenser,kolkata,9
+2023-01-27,Engine,Mangalore,45
+2023-01-27,Transmission,chennai,17
+2023-01-27,Brake Pads,mumbai,53
+2023-01-27,Alternator,chennai,69
+2023-01-27,Starter Motor,rajasthan,72
+2023-01-27,Suspension System,chennai,41
+2023-01-27,Fuel Pump,punjab,3
+2023-01-27,Exhaust System,Bangalore,7
+2023-01-27,Battery,rajasthan,16
+2023-01-28,silenser,Mangalore,34
+2023-01-28,Engine,mumbai,10
+2023-01-28,Transmission,punjab,5
+2023-01-28,Brake Pads,Mangalore,81
+2023-01-28,Alternator,Mangalore,84
+2023-01-28,Starter Motor,Delhi,70
+2023-01-28,Suspension System,rajasthan,79
+2023-01-28,Fuel Pump,kolkata,83
+2023-01-28,Exhaust System,kolkata,32
+2023-01-28,Battery,Bangalore,96
+2023-01-29,silenser,chennai,2
+2023-01-29,Engine,rajasthan,41
+2023-01-29,Transmission,rajasthan,55
+2023-01-29,Brake Pads,Mangalore,2
+2023-01-29,Alternator,Delhi,91
+2023-01-29,Starter Motor,Bangalore,24
+2023-01-29,Suspension System,punjab,100
+2023-01-29,Fuel Pump,mumbai,18
+2023-01-29,Exhaust System,punjab,31
+2023-01-29,Battery,Mangalore,3
+2023-01-30,silenser,punjab,35
+2023-01-30,Engine,Bangalore,63
+2023-01-30,Transmission,punjab,33
+2023-01-30,Brake Pads,kerala,25
+2023-01-30,Alternator,kerala,98
+2023-01-30,Starter Motor,Bangalore,18
+2023-01-30,Suspension System,chennai,43
+2023-01-30,Fuel Pump,Mangalore,87
+2023-01-30,Exhaust System,Mangalore,45
+2023-01-30,Battery,Delhi,36
+2023-01-31,silenser,Mangalore,42
+2023-01-31,Engine,mumbai,68
+2023-01-31,Transmission,Mangalore,2
+2023-01-31,Brake Pads,mumbai,45
+2023-01-31,Alternator,Delhi,8
+2023-01-31,Starter Motor,mumbai,99
+2023-01-31,Suspension System,Bangalore,55
+2023-01-31,Fuel Pump,punjab,84
+2023-01-31,Exhaust System,kolkata,2
+2023-01-31,Battery,Delhi,28
+2023-02-01,silenser,punjab,45
+2023-02-01,Engine,kerala,64
+2023-02-01,Transmission,Delhi,40
+2023-02-01,Brake Pads,Delhi,30
+2023-02-01,Alternator,Bangalore,21
+2023-02-01,Starter Motor,Bangalore,4
+2023-02-01,Suspension System,rajasthan,69
+2023-02-01,Fuel Pump,punjab,91
+2023-02-01,Exhaust System,rajasthan,10
+2023-02-01,Battery,Delhi,13
+2023-02-02,silenser,Mangalore,37
+2023-02-02,Engine,kerala,73
+2023-02-02,Transmission,kolkata,41
+2023-02-02,Brake Pads,Delhi,4
+2023-02-02,Alternator,Delhi,24
+2023-02-02,Starter Motor,kerala,94
+2023-02-02,Suspension System,rajasthan,63
+2023-02-02,Fuel Pump,chennai,18
+2023-02-02,Exhaust System,mumbai,46
+2023-02-02,Battery,kerala,30
+2023-02-03,silenser,kerala,91
+2023-02-03,Engine,Bangalore,19
+2023-02-03,Transmission,mumbai,68
+2023-02-03,Brake Pads,chennai,20
+2023-02-03,Alternator,Delhi,21
+2023-02-03,Starter Motor,Mangalore,73
+2023-02-03,Suspension System,Bangalore,67
+2023-02-03,Fuel Pump,Bangalore,44
+2023-02-03,Exhaust System,mumbai,21
+2023-02-03,Battery,kolkata,28
+2023-02-04,silenser,rajasthan,46
+2023-02-04,Engine,Delhi,65
+2023-02-04,Transmission,Bangalore,61
+2023-02-04,Brake Pads,mumbai,99
+2023-02-04,Alternator,punjab,2
+2023-02-04,Starter Motor,Delhi,99
+2023-02-04,Suspension System,rajasthan,67
+2023-02-04,Fuel Pump,rajasthan,10
+2023-02-04,Exhaust System,Delhi,48
+2023-02-04,Battery,Bangalore,11
+2023-02-05,silenser,Mangalore,22
+2023-02-05,Engine,Bangalore,14
+2023-02-05,Transmission,Mangalore,58
+2023-02-05,Brake Pads,punjab,35
+2023-02-05,Alternator,chennai,59
+2023-02-05,Starter Motor,mumbai,81
+2023-02-05,Suspension System,kerala,89
+2023-02-05,Fuel Pump,kolkata,61
+2023-02-05,Exhaust System,chennai,23
+2023-02-05,Battery,kerala,24
+2023-02-06,silenser,mumbai,4
+2023-02-06,Engine,rajasthan,50
+2023-02-06,Transmission,Bangalore,20
+2023-02-06,Brake Pads,rajasthan,70
+2023-02-06,Alternator,Delhi,49
+2023-02-06,Starter Motor,chennai,9
+2023-02-06,Suspension System,kerala,38
+2023-02-06,Fuel Pump,kolkata,37
+2023-02-06,Exhaust System,rajasthan,26
+2023-02-06,Battery,rajasthan,100
+2023-02-07,silenser,mumbai,70
+2023-02-07,Engine,punjab,11
+2023-02-07,Transmission,Bangalore,73
+2023-02-07,Brake Pads,chennai,78
+2023-02-07,Alternator,mumbai,58
+2023-02-07,Starter Motor,Delhi,88
+2023-02-07,Suspension System,chennai,43
+2023-02-07,Fuel Pump,kerala,14
+2023-02-07,Exhaust System,kolkata,60
+2023-02-07,Battery,punjab,1
+2023-02-08,silenser,chennai,47
+2023-02-08,Engine,rajasthan,39
+2023-02-08,Transmission,rajasthan,82
+2023-02-08,Brake Pads,chennai,32
+2023-02-08,Alternator,Bangalore,2
+2023-02-08,Starter Motor,kerala,72
+2023-02-08,Suspension System,Delhi,27
+2023-02-08,Fuel Pump,kerala,93
+2023-02-08,Exhaust System,Mangalore,22
+2023-02-08,Battery,kerala,54
+2023-02-09,silenser,Bangalore,27
+2023-02-09,Engine,kerala,45
+2023-02-09,Transmission,kerala,22
+2023-02-09,Brake Pads,mumbai,64
+2023-02-09,Alternator,kolkata,64
+2023-02-09,Starter Motor,mumbai,5
+2023-02-09,Suspension System,Mangalore,63
+2023-02-09,Fuel Pump,Mangalore,60
+2023-02-09,Exhaust System,punjab,69
+2023-02-09,Battery,chennai,8
+2023-02-10,silenser,Delhi,43
+2023-02-10,Engine,chennai,62
+2023-02-10,Transmission,kerala,3
+2023-02-10,Brake Pads,chennai,29
+2023-02-10,Alternator,Bangalore,99
+2023-02-10,Starter Motor,Mangalore,59
+2023-02-10,Suspension System,chennai,41
+2023-02-10,Fuel Pump,kolkata,70
+2023-02-10,Exhaust System,punjab,15
+2023-02-10,Battery,kerala,89
+2023-02-11,silenser,rajasthan,22
+2023-02-11,Engine,mumbai,37
+2023-02-11,Transmission,Delhi,97
+2023-02-11,Brake Pads,punjab,86
+2023-02-11,Alternator,Mangalore,71
+2023-02-11,Starter Motor,kolkata,55
+2023-02-11,Suspension System,Mangalore,21
+2023-02-11,Fuel Pump,Delhi,92
+2023-02-11,Exhaust System,punjab,33
+2023-02-11,Battery,Mangalore,15
+2023-02-12,silenser,Delhi,16
+2023-02-12,Engine,chennai,93
+2023-02-12,Transmission,punjab,47
+2023-02-12,Brake Pads,Mangalore,8
+2023-02-12,Alternator,mumbai,41
+2023-02-12,Starter Motor,Mangalore,12
+2023-02-12,Suspension System,Delhi,27
+2023-02-12,Fuel Pump,punjab,73
+2023-02-12,Exhaust System,Mangalore,71
+2023-02-12,Battery,rajasthan,40
+2023-02-13,silenser,kerala,33
+2023-02-13,Engine,Mangalore,86
+2023-02-13,Transmission,Bangalore,57
+2023-02-13,Brake Pads,mumbai,37
+2023-02-13,Alternator,punjab,48
+2023-02-13,Starter Motor,punjab,20
+2023-02-13,Suspension System,rajasthan,95
+2023-02-13,Fuel Pump,Bangalore,50
+2023-02-13,Exhaust System,Mangalore,51
+2023-02-13,Battery,kerala,83
+2023-02-14,silenser,chennai,65
+2023-02-14,Engine,chennai,63
+2023-02-14,Transmission,Delhi,84
+2023-02-14,Brake Pads,punjab,92
+2023-02-14,Alternator,kerala,94
+2023-02-14,Starter Motor,mumbai,17
+2023-02-14,Suspension System,Bangalore,81
+2023-02-14,Fuel Pump,mumbai,81
+2023-02-14,Exhaust System,mumbai,65
+2023-02-14,Battery,chennai,83
+2023-02-15,silenser,punjab,98
+2023-02-15,Engine,mumbai,14
+2023-02-15,Transmission,kolkata,55
+2023-02-15,Brake Pads,punjab,73
+2023-02-15,Alternator,Mangalore,10
+2023-02-15,Starter Motor,kerala,50
+2023-02-15,Suspension System,rajasthan,89
+2023-02-15,Fuel Pump,kerala,35
+2023-02-15,Exhaust System,Bangalore,92
+2023-02-15,Battery,chennai,48
+2023-02-16,silenser,Delhi,64
+2023-02-16,Engine,punjab,89
+2023-02-16,Transmission,kolkata,57
+2023-02-16,Brake Pads,mumbai,0
+2023-02-16,Alternator,rajasthan,95
+2023-02-16,Starter Motor,chennai,23
+2023-02-16,Suspension System,Bangalore,9
+2023-02-16,Fuel Pump,kolkata,67
+2023-02-16,Exhaust System,kolkata,79
+2023-02-16,Battery,mumbai,35
+2023-02-17,silenser,chennai,15
+2023-02-17,Engine,chennai,22
+2023-02-17,Transmission,Bangalore,7
+2023-02-17,Brake Pads,mumbai,12
+2023-02-17,Alternator,Mangalore,24
+2023-02-17,Starter Motor,Delhi,49
+2023-02-17,Suspension System,kolkata,28
+2023-02-17,Fuel Pump,Delhi,20
+2023-02-17,Exhaust System,mumbai,21
+2023-02-17,Battery,mumbai,90
+2023-02-18,silenser,Mangalore,85
+2023-02-18,Engine,punjab,11
+2023-02-18,Transmission,mumbai,72
+2023-02-18,Brake Pads,kerala,56
+2023-02-18,Alternator,Mangalore,58
+2023-02-18,Starter Motor,Bangalore,68
+2023-02-18,Suspension System,Mangalore,44
+2023-02-18,Fuel Pump,mumbai,70
+2023-02-18,Exhaust System,mumbai,68
+2023-02-18,Battery,kolkata,81
+2023-02-19,silenser,mumbai,91
+2023-02-19,Engine,Mangalore,55
+2023-02-19,Transmission,chennai,9
+2023-02-19,Brake Pads,chennai,81
+2023-02-19,Alternator,Bangalore,43
+2023-02-19,Starter Motor,kolkata,89
+2023-02-19,Suspension System,kolkata,88
+2023-02-19,Fuel Pump,chennai,51
+2023-02-19,Exhaust System,kolkata,14
+2023-02-19,Battery,mumbai,65
+2023-02-20,silenser,mumbai,27
+2023-02-20,Engine,Delhi,74
+2023-02-20,Transmission,Mangalore,65
+2023-02-20,Brake Pads,mumbai,63
+2023-02-20,Alternator,kerala,4
+2023-02-20,Starter Motor,rajasthan,32
+2023-02-20,Suspension System,Delhi,16
+2023-02-20,Fuel Pump,Mangalore,43
+2023-02-20,Exhaust System,Mangalore,42
+2023-02-20,Battery,mumbai,78
+2023-02-21,silenser,mumbai,18
+2023-02-21,Engine,Delhi,13
+2023-02-21,Transmission,chennai,86
+2023-02-21,Brake Pads,punjab,46
+2023-02-21,Alternator,mumbai,27
+2023-02-21,Starter Motor,Delhi,33
+2023-02-21,Suspension System,Mangalore,30
+2023-02-21,Fuel Pump,chennai,20
+2023-02-21,Exhaust System,kerala,40
+2023-02-21,Battery,Mangalore,71
+2023-02-22,silenser,kerala,93
+2023-02-22,Engine,punjab,45
+2023-02-22,Transmission,Delhi,32
+2023-02-22,Brake Pads,Mangalore,58
+2023-02-22,Alternator,Delhi,42
+2023-02-22,Starter Motor,kolkata,97
+2023-02-22,Suspension System,Delhi,72
+2023-02-22,Fuel Pump,Mangalore,95
+2023-02-22,Exhaust System,kerala,94
+2023-02-22,Battery,Mangalore,24
+2023-02-23,silenser,punjab,50
+2023-02-23,Engine,Bangalore,88
+2023-02-23,Transmission,Bangalore,100
+2023-02-23,Brake Pads,Mangalore,68
+2023-02-23,Alternator,Mangalore,88
+2023-02-23,Starter Motor,Delhi,42
+2023-02-23,Suspension System,punjab,89
+2023-02-23,Fuel Pump,Mangalore,23
+2023-02-23,Exhaust System,rajasthan,92
+2023-02-23,Battery,rajasthan,47
+2023-02-24,silenser,kerala,27
+2023-02-24,Engine,Mangalore,9
+2023-02-24,Transmission,rajasthan,69
+2023-02-24,Brake Pads,Mangalore,30
+2023-02-24,Alternator,kerala,57
+2023-02-24,Starter Motor,punjab,1
+2023-02-24,Suspension System,kerala,72
+2023-02-24,Fuel Pump,Mangalore,3
+2023-02-24,Exhaust System,punjab,21
+2023-02-24,Battery,punjab,65
+2023-02-25,silenser,Mangalore,83
+2023-02-25,Engine,kolkata,10
+2023-02-25,Transmission,rajasthan,50
+2023-02-25,Brake Pads,kolkata,69
+2023-02-25,Alternator,mumbai,40
+2023-02-25,Starter Motor,kolkata,58
+2023-02-25,Suspension System,punjab,100
+2023-02-25,Fuel Pump,kolkata,62
+2023-02-25,Exhaust System,kerala,10
+2023-02-25,Battery,Mangalore,86
+2023-02-26,silenser,rajasthan,68
+2023-02-26,Engine,punjab,47
+2023-02-26,Transmission,kolkata,8
+2023-02-26,Brake Pads,punjab,1
+2023-02-26,Alternator,chennai,86
+2023-02-26,Starter Motor,chennai,17
+2023-02-26,Suspension System,Bangalore,23
+2023-02-26,Fuel Pump,kolkata,81
+2023-02-26,Exhaust System,kolkata,74
+2023-02-26,Battery,punjab,51
+2023-02-27,silenser,kolkata,90
+2023-02-27,Engine,chennai,88
+2023-02-27,Transmission,Delhi,25
+2023-02-27,Brake Pads,kerala,93
+2023-02-27,Alternator,Delhi,38
+2023-02-27,Starter Motor,rajasthan,87
+2023-02-27,Suspension System,Bangalore,34
+2023-02-27,Fuel Pump,Delhi,11
+2023-02-27,Exhaust System,mumbai,2
+2023-02-27,Battery,mumbai,88
+2023-02-28,silenser,kerala,9
+2023-02-28,Engine,punjab,3
+2023-02-28,Transmission,rajasthan,0
+2023-02-28,Brake Pads,chennai,27
+2023-02-28,Alternator,kolkata,71
+2023-02-28,Starter Motor,Mangalore,5
+2023-02-28,Suspension System,mumbai,99
+2023-02-28,Fuel Pump,chennai,14
+2023-02-28,Exhaust System,mumbai,15
+2023-02-28,Battery,Delhi,51
+2023-03-01,silenser,chennai,7
+2023-03-01,Engine,rajasthan,97
+2023-03-01,Transmission,Mangalore,57
+2023-03-01,Brake Pads,punjab,38
+2023-03-01,Alternator,rajasthan,2
+2023-03-01,Starter Motor,kerala,20
+2023-03-01,Suspension System,kolkata,63
+2023-03-01,Fuel Pump,chennai,38
+2023-03-01,Exhaust System,chennai,0
+2023-03-01,Battery,Delhi,3
+2023-03-02,silenser,Bangalore,71
+2023-03-02,Engine,Mangalore,76
+2023-03-02,Transmission,Mangalore,33
+2023-03-02,Brake Pads,Delhi,44
+2023-03-02,Alternator,Bangalore,96
+2023-03-02,Starter Motor,Mangalore,35
+2023-03-02,Suspension System,chennai,36
+2023-03-02,Fuel Pump,kolkata,85
+2023-03-02,Exhaust System,Bangalore,93
+2023-03-02,Battery,kolkata,60
+2023-03-03,silenser,kolkata,54
+2023-03-03,Engine,kolkata,95
+2023-03-03,Transmission,chennai,5
+2023-03-03,Brake Pads,Delhi,71
+2023-03-03,Alternator,mumbai,32
+2023-03-03,Starter Motor,rajasthan,88
+2023-03-03,Suspension System,Bangalore,72
+2023-03-03,Fuel Pump,chennai,31
+2023-03-03,Exhaust System,Delhi,25
+2023-03-03,Battery,Mangalore,89
+2023-03-04,silenser,kolkata,29
+2023-03-04,Engine,Mangalore,55
+2023-03-04,Transmission,mumbai,42
+2023-03-04,Brake Pads,kerala,38
+2023-03-04,Alternator,chennai,44
+2023-03-04,Starter Motor,punjab,97
+2023-03-04,Suspension System,Bangalore,64
+2023-03-04,Fuel Pump,punjab,36
+2023-03-04,Exhaust System,rajasthan,87
+2023-03-04,Battery,chennai,35
+2023-03-05,silenser,kolkata,11
+2023-03-05,Engine,punjab,18
+2023-03-05,Transmission,punjab,10
+2023-03-05,Brake Pads,Mangalore,88
+2023-03-05,Alternator,rajasthan,79
+2023-03-05,Starter Motor,Mangalore,24
+2023-03-05,Suspension System,mumbai,17
+2023-03-05,Fuel Pump,rajasthan,67
+2023-03-05,Exhaust System,Bangalore,69
+2023-03-05,Battery,chennai,11
+2023-03-06,silenser,rajasthan,64
+2023-03-06,Engine,Delhi,53
+2023-03-06,Transmission,kolkata,33
+2023-03-06,Brake Pads,Bangalore,61
+2023-03-06,Alternator,rajasthan,62
+2023-03-06,Starter Motor,Mangalore,63
+2023-03-06,Suspension System,mumbai,43
+2023-03-06,Fuel Pump,rajasthan,47
+2023-03-06,Exhaust System,Delhi,9
+2023-03-06,Battery,mumbai,2
+2023-03-07,silenser,punjab,38
+2023-03-07,Engine,punjab,76
+2023-03-07,Transmission,kolkata,8
+2023-03-07,Brake Pads,kolkata,100
+2023-03-07,Alternator,kerala,42
+2023-03-07,Starter Motor,mumbai,96
+2023-03-07,Suspension System,kolkata,39
+2023-03-07,Fuel Pump,Delhi,38
+2023-03-07,Exhaust System,mumbai,29
+2023-03-07,Battery,mumbai,20
+2023-03-08,silenser,Mangalore,66
+2023-03-08,Engine,punjab,92
+2023-03-08,Transmission,chennai,41
+2023-03-08,Brake Pads,Delhi,4
+2023-03-08,Alternator,mumbai,19
+2023-03-08,Starter Motor,rajasthan,75
+2023-03-08,Suspension System,mumbai,6
+2023-03-08,Fuel Pump,mumbai,39
+2023-03-08,Exhaust System,Bangalore,82
+2023-03-08,Battery,Bangalore,21
+2023-03-09,silenser,kolkata,18
+2023-03-09,Engine,rajasthan,86
+2023-03-09,Transmission,kolkata,40
+2023-03-09,Brake Pads,Bangalore,95
+2023-03-09,Alternator,mumbai,9
+2023-03-09,Starter Motor,Mangalore,12
+2023-03-09,Suspension System,Mangalore,12
+2023-03-09,Fuel Pump,mumbai,83
+2023-03-09,Exhaust System,mumbai,30
+2023-03-09,Battery,mumbai,70
+2023-03-10,silenser,Delhi,76
+2023-03-10,Engine,Mangalore,44
+2023-03-10,Transmission,chennai,91
+2023-03-10,Brake Pads,kerala,72
+2023-03-10,Alternator,mumbai,74
+2023-03-10,Starter Motor,rajasthan,62
+2023-03-10,Suspension System,chennai,23
+2023-03-10,Fuel Pump,chennai,35
+2023-03-10,Exhaust System,kolkata,34
+2023-03-10,Battery,Mangalore,87
+2023-03-11,silenser,punjab,73
+2023-03-11,Engine,Delhi,81
+2023-03-11,Transmission,Delhi,24
+2023-03-11,Brake Pads,punjab,72
+2023-03-11,Alternator,Mangalore,16
+2023-03-11,Starter Motor,kolkata,76
+2023-03-11,Suspension System,kolkata,27
+2023-03-11,Fuel Pump,rajasthan,27
+2023-03-11,Exhaust System,chennai,90
+2023-03-11,Battery,rajasthan,38
+2023-03-12,silenser,rajasthan,74
+2023-03-12,Engine,Delhi,92
+2023-03-12,Transmission,punjab,8
+2023-03-12,Brake Pads,kolkata,58
+2023-03-12,Alternator,chennai,34
+2023-03-12,Starter Motor,Bangalore,18
+2023-03-12,Suspension System,kerala,34
+2023-03-12,Fuel Pump,chennai,77
+2023-03-12,Exhaust System,Delhi,51
+2023-03-12,Battery,Delhi,71
+2023-03-13,silenser,Bangalore,45
+2023-03-13,Engine,rajasthan,6
+2023-03-13,Transmission,Bangalore,27
+2023-03-13,Brake Pads,chennai,16
+2023-03-13,Alternator,Delhi,79
+2023-03-13,Starter Motor,Mangalore,4
+2023-03-13,Suspension System,Mangalore,7
+2023-03-13,Fuel Pump,rajasthan,69
+2023-03-13,Exhaust System,Mangalore,95
+2023-03-13,Battery,Delhi,28
+2023-03-14,silenser,kerala,68
+2023-03-14,Engine,Delhi,60
+2023-03-14,Transmission,punjab,88
+2023-03-14,Brake Pads,rajasthan,12
+2023-03-14,Alternator,kolkata,47
+2023-03-14,Starter Motor,Bangalore,85
+2023-03-14,Suspension System,punjab,11
+2023-03-14,Fuel Pump,kolkata,98
+2023-03-14,Exhaust System,punjab,22
+2023-03-14,Battery,mumbai,5
+2023-03-15,silenser,punjab,47
+2023-03-15,Engine,Mangalore,53
+2023-03-15,Transmission,kolkata,46
+2023-03-15,Brake Pads,kerala,45
+2023-03-15,Alternator,chennai,46
+2023-03-15,Starter Motor,rajasthan,71
+2023-03-15,Suspension System,rajasthan,53
+2023-03-15,Fuel Pump,chennai,37
+2023-03-15,Exhaust System,chennai,80
+2023-03-15,Battery,chennai,75
+2023-03-16,silenser,rajasthan,24
+2023-03-16,Engine,Delhi,78
+2023-03-16,Transmission,Bangalore,95
+2023-03-16,Brake Pads,Mangalore,95
+2023-03-16,Alternator,kerala,83
+2023-03-16,Starter Motor,Bangalore,48
+2023-03-16,Suspension System,kerala,78
+2023-03-16,Fuel Pump,punjab,61
+2023-03-16,Exhaust System,punjab,41
+2023-03-16,Battery,kolkata,33
+2023-03-17,silenser,punjab,89
+2023-03-17,Engine,Delhi,93
+2023-03-17,Transmission,Delhi,68
+2023-03-17,Brake Pads,Bangalore,51
+2023-03-17,Alternator,punjab,19
+2023-03-17,Starter Motor,punjab,2
+2023-03-17,Suspension System,chennai,51
+2023-03-17,Fuel Pump,rajasthan,75
+2023-03-17,Exhaust System,Bangalore,90
+2023-03-17,Battery,chennai,56
+2023-03-18,silenser,Bangalore,6
+2023-03-18,Engine,rajasthan,67
+2023-03-18,Transmission,kolkata,90
+2023-03-18,Brake Pads,rajasthan,67
+2023-03-18,Alternator,Mangalore,27
+2023-03-18,Starter Motor,chennai,61
+2023-03-18,Suspension System,Bangalore,98
+2023-03-18,Fuel Pump,Bangalore,20
+2023-03-18,Exhaust System,Mangalore,28
+2023-03-18,Battery,punjab,78
+2023-03-19,silenser,kerala,17
+2023-03-19,Engine,mumbai,31
+2023-03-19,Transmission,rajasthan,92
+2023-03-19,Brake Pads,chennai,41
+2023-03-19,Alternator,punjab,98
+2023-03-19,Starter Motor,Mangalore,29
+2023-03-19,Suspension System,mumbai,87
+2023-03-19,Fuel Pump,kolkata,19
+2023-03-19,Exhaust System,kolkata,56
+2023-03-19,Battery,Delhi,59
+2023-03-20,silenser,Bangalore,10
+2023-03-20,Engine,punjab,60
+2023-03-20,Transmission,Delhi,74
+2023-03-20,Brake Pads,rajasthan,29
+2023-03-20,Alternator,chennai,59
+2023-03-20,Starter Motor,kerala,30
+2023-03-20,Suspension System,Bangalore,64
+2023-03-20,Fuel Pump,rajasthan,86
+2023-03-20,Exhaust System,Bangalore,54
+2023-03-20,Battery,rajasthan,83
+2023-03-21,silenser,Mangalore,50
+2023-03-21,Engine,kolkata,81
+2023-03-21,Transmission,punjab,89
+2023-03-21,Brake Pads,kerala,76
+2023-03-21,Alternator,mumbai,74
+2023-03-21,Starter Motor,mumbai,85
+2023-03-21,Suspension System,Delhi,68
+2023-03-21,Fuel Pump,Delhi,88
+2023-03-21,Exhaust System,chennai,84
+2023-03-21,Battery,rajasthan,43
+2023-03-22,silenser,kolkata,14
+2023-03-22,Engine,Bangalore,34
+2023-03-22,Transmission,kolkata,90
+2023-03-22,Brake Pads,Bangalore,22
+2023-03-22,Alternator,Bangalore,69
+2023-03-22,Starter Motor,kolkata,98
+2023-03-22,Suspension System,chennai,53
+2023-03-22,Fuel Pump,chennai,50
+2023-03-22,Exhaust System,Mangalore,55
+2023-03-22,Battery,Delhi,94
+2023-03-23,silenser,punjab,25
+2023-03-23,Engine,rajasthan,91
+2023-03-23,Transmission,rajasthan,90
+2023-03-23,Brake Pads,rajasthan,78
+2023-03-23,Alternator,kerala,68
+2023-03-23,Starter Motor,Bangalore,46
+2023-03-23,Suspension System,punjab,82
+2023-03-23,Fuel Pump,kolkata,63
+2023-03-23,Exhaust System,rajasthan,1
+2023-03-23,Battery,rajasthan,97
+2023-03-24,silenser,Delhi,4
+2023-03-24,Engine,Delhi,20
+2023-03-24,Transmission,mumbai,6
+2023-03-24,Brake Pads,Delhi,57
+2023-03-24,Alternator,Mangalore,38
+2023-03-24,Starter Motor,rajasthan,17
+2023-03-24,Suspension System,rajasthan,0
+2023-03-24,Fuel Pump,punjab,10
+2023-03-24,Exhaust System,kolkata,25
+2023-03-24,Battery,Mangalore,25
+2023-03-25,silenser,chennai,57
+2023-03-25,Engine,punjab,79
+2023-03-25,Transmission,rajasthan,2
+2023-03-25,Brake Pads,mumbai,82
+2023-03-25,Alternator,mumbai,39
+2023-03-25,Starter Motor,chennai,64
+2023-03-25,Suspension System,chennai,15
+2023-03-25,Fuel Pump,rajasthan,0
+2023-03-25,Exhaust System,punjab,85
+2023-03-25,Battery,punjab,18
+2023-03-26,silenser,chennai,45
+2023-03-26,Engine,kerala,17
+2023-03-26,Transmission,Bangalore,57
+2023-03-26,Brake Pads,kerala,75
+2023-03-26,Alternator,kolkata,64
+2023-03-26,Starter Motor,kolkata,62
+2023-03-26,Suspension System,kerala,29
+2023-03-26,Fuel Pump,kolkata,100
+2023-03-26,Exhaust System,chennai,59
+2023-03-26,Battery,mumbai,30
+2023-03-27,silenser,mumbai,28
+2023-03-27,Engine,kerala,60
+2023-03-27,Transmission,mumbai,97
+2023-03-27,Brake Pads,Delhi,7
+2023-03-27,Alternator,Mangalore,74
+2023-03-27,Starter Motor,Delhi,19
+2023-03-27,Suspension System,mumbai,38
+2023-03-27,Fuel Pump,Mangalore,65
+2023-03-27,Exhaust System,kerala,3
+2023-03-27,Battery,rajasthan,19
+2023-03-28,silenser,chennai,67
+2023-03-28,Engine,kolkata,64
+2023-03-28,Transmission,Bangalore,71
+2023-03-28,Brake Pads,rajasthan,92
+2023-03-28,Alternator,chennai,40
+2023-03-28,Starter Motor,rajasthan,51
+2023-03-28,Suspension System,chennai,93
+2023-03-28,Fuel Pump,Delhi,95
+2023-03-28,Exhaust System,rajasthan,8
+2023-03-28,Battery,Bangalore,69
+2023-03-29,silenser,Bangalore,79
+2023-03-29,Engine,chennai,11
+2023-03-29,Transmission,Delhi,25
+2023-03-29,Brake Pads,chennai,66
+2023-03-29,Alternator,rajasthan,41
+2023-03-29,Starter Motor,mumbai,71
+2023-03-29,Suspension System,Bangalore,29
+2023-03-29,Fuel Pump,kolkata,16
+2023-03-29,Exhaust System,Mangalore,70
+2023-03-29,Battery,chennai,91
+2023-03-30,silenser,punjab,30
+2023-03-30,Engine,kolkata,52
+2023-03-30,Transmission,Mangalore,43
+2023-03-30,Brake Pads,kolkata,44
+2023-03-30,Alternator,rajasthan,93
+2023-03-30,Starter Motor,Mangalore,27
+2023-03-30,Suspension System,kerala,14
+2023-03-30,Fuel Pump,chennai,68
+2023-03-30,Exhaust System,Delhi,5
+2023-03-30,Battery,rajasthan,73
+2023-03-31,silenser,Delhi,7
+2023-03-31,Engine,kerala,12
+2023-03-31,Transmission,mumbai,63
+2023-03-31,Brake Pads,kerala,12
+2023-03-31,Alternator,Bangalore,21
+2023-03-31,Starter Motor,mumbai,92
+2023-03-31,Suspension System,Bangalore,73
+2023-03-31,Fuel Pump,Mangalore,3
+2023-03-31,Exhaust System,rajasthan,69
+2023-03-31,Battery,rajasthan,27
+2023-04-01,silenser,mumbai,17
+2023-04-01,Engine,Bangalore,3
+2023-04-01,Transmission,Delhi,36
+2023-04-01,Brake Pads,Mangalore,42
+2023-04-01,Alternator,chennai,13
+2023-04-01,Starter Motor,rajasthan,44
+2023-04-01,Suspension System,rajasthan,84
+2023-04-01,Fuel Pump,kolkata,17
+2023-04-01,Exhaust System,Mangalore,36
+2023-04-01,Battery,mumbai,16
+2023-04-02,silenser,kolkata,4
+2023-04-02,Engine,punjab,45
+2023-04-02,Transmission,rajasthan,43
+2023-04-02,Brake Pads,punjab,10
+2023-04-02,Alternator,kerala,80
+2023-04-02,Starter Motor,mumbai,26
+2023-04-02,Suspension System,punjab,49
+2023-04-02,Fuel Pump,Delhi,87
+2023-04-02,Exhaust System,Mangalore,29
+2023-04-02,Battery,punjab,36
+2023-04-03,silenser,punjab,3
+2023-04-03,Engine,rajasthan,37
+2023-04-03,Transmission,kolkata,93
+2023-04-03,Brake Pads,rajasthan,71
+2023-04-03,Alternator,kolkata,30
+2023-04-03,Starter Motor,punjab,28
+2023-04-03,Suspension System,punjab,73
+2023-04-03,Fuel Pump,rajasthan,90
+2023-04-03,Exhaust System,kerala,22
+2023-04-03,Battery,chennai,96
+2023-04-04,silenser,kolkata,73
+2023-04-04,Engine,rajasthan,53
+2023-04-04,Transmission,mumbai,61
+2023-04-04,Brake Pads,kerala,70
+2023-04-04,Alternator,kolkata,52
+2023-04-04,Starter Motor,Bangalore,83
+2023-04-04,Suspension System,Mangalore,19
+2023-04-04,Fuel Pump,chennai,21
+2023-04-04,Exhaust System,rajasthan,7
+2023-04-04,Battery,Bangalore,51
+2023-04-05,silenser,Bangalore,19
+2023-04-05,Engine,kolkata,98
+2023-04-05,Transmission,mumbai,24
+2023-04-05,Brake Pads,chennai,87
+2023-04-05,Alternator,rajasthan,15
+2023-04-05,Starter Motor,mumbai,61
+2023-04-05,Suspension System,chennai,41
+2023-04-05,Fuel Pump,mumbai,67
+2023-04-05,Exhaust System,Delhi,42
+2023-04-05,Battery,Bangalore,24
+2023-04-06,silenser,chennai,30
+2023-04-06,Engine,Bangalore,10
+2023-04-06,Transmission,rajasthan,81
+2023-04-06,Brake Pads,kolkata,20
+2023-04-06,Alternator,kolkata,53
+2023-04-06,Starter Motor,Bangalore,67
+2023-04-06,Suspension System,punjab,90
+2023-04-06,Fuel Pump,kerala,35
+2023-04-06,Exhaust System,chennai,93
+2023-04-06,Battery,kolkata,76
+2023-04-07,silenser,mumbai,62
+2023-04-07,Engine,Bangalore,20
+2023-04-07,Transmission,kolkata,84
+2023-04-07,Brake Pads,rajasthan,0
+2023-04-07,Alternator,Mangalore,81
+2023-04-07,Starter Motor,Bangalore,31
+2023-04-07,Suspension System,Bangalore,43
+2023-04-07,Fuel Pump,chennai,84
+2023-04-07,Exhaust System,kolkata,90
+2023-04-07,Battery,Bangalore,81
+2023-04-08,silenser,Mangalore,73
+2023-04-08,Engine,Mangalore,35
+2023-04-08,Transmission,chennai,70
+2023-04-08,Brake Pads,punjab,77
+2023-04-08,Alternator,mumbai,28
+2023-04-08,Starter Motor,mumbai,36
+2023-04-08,Suspension System,punjab,15
+2023-04-08,Fuel Pump,mumbai,39
+2023-04-08,Exhaust System,Mangalore,3
+2023-04-08,Battery,kerala,12
+2023-04-09,silenser,Bangalore,1
+2023-04-09,Engine,punjab,18
+2023-04-09,Transmission,kerala,8
+2023-04-09,Brake Pads,rajasthan,58
+2023-04-09,Alternator,Bangalore,74
+2023-04-09,Starter Motor,chennai,86
+2023-04-09,Suspension System,Mangalore,70
+2023-04-09,Fuel Pump,Bangalore,70
+2023-04-09,Exhaust System,kolkata,49
+2023-04-09,Battery,rajasthan,63
+2023-04-10,silenser,Delhi,75
+2023-04-10,Engine,chennai,35
+2023-04-10,Transmission,chennai,19
+2023-04-10,Brake Pads,punjab,52
+2023-04-10,Alternator,chennai,82
+2023-04-10,Starter Motor,punjab,99
+2023-04-10,Suspension System,Delhi,87
+2023-04-10,Fuel Pump,Delhi,54
+2023-04-10,Exhaust System,chennai,70
+2023-04-10,Battery,kerala,70
+2023-04-11,silenser,chennai,70
+2023-04-11,Engine,rajasthan,2
+2023-04-11,Transmission,Mangalore,91
+2023-04-11,Brake Pads,kerala,1
+2023-04-11,Alternator,kerala,44
+2023-04-11,Starter Motor,mumbai,65
+2023-04-11,Suspension System,kolkata,3
+2023-04-11,Fuel Pump,Bangalore,53
+2023-04-11,Exhaust System,Mangalore,79
+2023-04-11,Battery,Delhi,82
+2023-04-12,silenser,kolkata,20
+2023-04-12,Engine,chennai,96
+2023-04-12,Transmission,chennai,91
+2023-04-12,Brake Pads,mumbai,26
+2023-04-12,Alternator,Delhi,19
+2023-04-12,Starter Motor,chennai,7
+2023-04-12,Suspension System,Mangalore,32
+2023-04-12,Fuel Pump,kerala,71
+2023-04-12,Exhaust System,Bangalore,37
+2023-04-12,Battery,punjab,74
+2023-04-13,silenser,rajasthan,14
+2023-04-13,Engine,Delhi,88
+2023-04-13,Transmission,kolkata,86
+2023-04-13,Brake Pads,kerala,14
+2023-04-13,Alternator,punjab,13
+2023-04-13,Starter Motor,punjab,98
+2023-04-13,Suspension System,Delhi,31
+2023-04-13,Fuel Pump,punjab,97
+2023-04-13,Exhaust System,Bangalore,22
+2023-04-13,Battery,chennai,94
+2023-04-14,silenser,chennai,72
+2023-04-14,Engine,chennai,19
+2023-04-14,Transmission,Delhi,81
+2023-04-14,Brake Pads,mumbai,89
+2023-04-14,Alternator,kolkata,91
+2023-04-14,Starter Motor,Bangalore,43
+2023-04-14,Suspension System,punjab,95
+2023-04-14,Fuel Pump,Mangalore,91
+2023-04-14,Exhaust System,mumbai,55
+2023-04-14,Battery,Mangalore,92
+2023-04-15,silenser,chennai,51
+2023-04-15,Engine,Bangalore,41
+2023-04-15,Transmission,Bangalore,82
+2023-04-15,Brake Pads,kerala,9
+2023-04-15,Alternator,Mangalore,93
+2023-04-15,Starter Motor,mumbai,91
+2023-04-15,Suspension System,Delhi,29
+2023-04-15,Fuel Pump,Bangalore,77
+2023-04-15,Exhaust System,Delhi,11
+2023-04-15,Battery,rajasthan,67
+2023-04-16,silenser,Bangalore,96
+2023-04-16,Engine,Mangalore,19
+2023-04-16,Transmission,Bangalore,48
+2023-04-16,Brake Pads,punjab,84
+2023-04-16,Alternator,punjab,39
+2023-04-16,Starter Motor,Bangalore,51
+2023-04-16,Suspension System,kerala,4
+2023-04-16,Fuel Pump,Delhi,20
+2023-04-16,Exhaust System,chennai,94
+2023-04-16,Battery,chennai,42
+2023-04-17,silenser,chennai,55
+2023-04-17,Engine,mumbai,30
+2023-04-17,Transmission,kolkata,18
+2023-04-17,Brake Pads,chennai,33
+2023-04-17,Alternator,chennai,86
+2023-04-17,Starter Motor,Bangalore,24
+2023-04-17,Suspension System,Bangalore,19
+2023-04-17,Fuel Pump,Bangalore,57
+2023-04-17,Exhaust System,rajasthan,12
+2023-04-17,Battery,Delhi,92
+2023-04-18,silenser,mumbai,29
+2023-04-18,Engine,mumbai,71
+2023-04-18,Transmission,mumbai,78
+2023-04-18,Brake Pads,mumbai,41
+2023-04-18,Alternator,Delhi,23
+2023-04-18,Starter Motor,Mangalore,12
+2023-04-18,Suspension System,punjab,0
+2023-04-18,Fuel Pump,punjab,23
+2023-04-18,Exhaust System,Delhi,72
+2023-04-18,Battery,kerala,80
+2023-04-19,silenser,Bangalore,58
+2023-04-19,Engine,Delhi,86
+2023-04-19,Transmission,Bangalore,82
+2023-04-19,Brake Pads,kerala,21
+2023-04-19,Alternator,punjab,88
+2023-04-19,Starter Motor,kolkata,39
+2023-04-19,Suspension System,chennai,33
+2023-04-19,Fuel Pump,rajasthan,54
+2023-04-19,Exhaust System,mumbai,23
+2023-04-19,Battery,Bangalore,74
+2023-04-20,silenser,mumbai,74
+2023-04-20,Engine,punjab,88
+2023-04-20,Transmission,Bangalore,39
+2023-04-20,Brake Pads,Mangalore,82
+2023-04-20,Alternator,Delhi,14
+2023-04-20,Starter Motor,punjab,47
+2023-04-20,Suspension System,punjab,26
+2023-04-20,Fuel Pump,kolkata,100
+2023-04-20,Exhaust System,mumbai,40
+2023-04-20,Battery,kolkata,71
+2023-04-21,silenser,rajasthan,97
+2023-04-21,Engine,Bangalore,29
+2023-04-21,Transmission,kolkata,27
+2023-04-21,Brake Pads,Bangalore,35
+2023-04-21,Alternator,kerala,76
+2023-04-21,Starter Motor,kerala,53
+2023-04-21,Suspension System,kolkata,71
+2023-04-21,Fuel Pump,kerala,38
+2023-04-21,Exhaust System,mumbai,95
+2023-04-21,Battery,punjab,90
+2023-04-22,silenser,Bangalore,86
+2023-04-22,Engine,rajasthan,40
+2023-04-22,Transmission,Bangalore,32
+2023-04-22,Brake Pads,punjab,60
+2023-04-22,Alternator,kolkata,51
+2023-04-22,Starter Motor,chennai,39
+2023-04-22,Suspension System,punjab,98
+2023-04-22,Fuel Pump,kolkata,54
+2023-04-22,Exhaust System,punjab,10
+2023-04-22,Battery,punjab,15
+2023-04-23,silenser,kolkata,26
+2023-04-23,Engine,kerala,65
+2023-04-23,Transmission,rajasthan,0
+2023-04-23,Brake Pads,chennai,83
+2023-04-23,Alternator,rajasthan,57
+2023-04-23,Starter Motor,Bangalore,26
+2023-04-23,Suspension System,Mangalore,88
+2023-04-23,Fuel Pump,mumbai,29
+2023-04-23,Exhaust System,Bangalore,53
+2023-04-23,Battery,Delhi,23
+2023-04-24,silenser,rajasthan,97
+2023-04-24,Engine,mumbai,88
+2023-04-24,Transmission,kerala,7
+2023-04-24,Brake Pads,Mangalore,35
+2023-04-24,Alternator,rajasthan,32
+2023-04-24,Starter Motor,kolkata,87
+2023-04-24,Suspension System,rajasthan,7
+2023-04-24,Fuel Pump,punjab,62
+2023-04-24,Exhaust System,Bangalore,47
+2023-04-24,Battery,kolkata,51
+2023-04-25,silenser,rajasthan,21
+2023-04-25,Engine,chennai,73
+2023-04-25,Transmission,chennai,46
+2023-04-25,Brake Pads,Delhi,1
+2023-04-25,Alternator,kolkata,63
+2023-04-25,Starter Motor,rajasthan,83
+2023-04-25,Suspension System,Bangalore,14
+2023-04-25,Fuel Pump,mumbai,89
+2023-04-25,Exhaust System,Mangalore,6
+2023-04-25,Battery,rajasthan,99
+2023-04-26,silenser,kolkata,63
+2023-04-26,Engine,Mangalore,72
+2023-04-26,Transmission,Mangalore,81
+2023-04-26,Brake Pads,mumbai,3
+2023-04-26,Alternator,Mangalore,73
+2023-04-26,Starter Motor,chennai,22
+2023-04-26,Suspension System,punjab,42
+2023-04-26,Fuel Pump,punjab,13
+2023-04-26,Exhaust System,Delhi,56
+2023-04-26,Battery,Mangalore,53
+2023-04-27,silenser,mumbai,67
+2023-04-27,Engine,rajasthan,42
+2023-04-27,Transmission,rajasthan,90
+2023-04-27,Brake Pads,rajasthan,26
+2023-04-27,Alternator,punjab,38
+2023-04-27,Starter Motor,rajasthan,75
+2023-04-27,Suspension System,punjab,80
+2023-04-27,Fuel Pump,kerala,9
+2023-04-27,Exhaust System,punjab,30
+2023-04-27,Battery,kolkata,32
+2023-04-28,silenser,Mangalore,94
+2023-04-28,Engine,rajasthan,34
+2023-04-28,Transmission,Mangalore,75
+2023-04-28,Brake Pads,kolkata,34
+2023-04-28,Alternator,rajasthan,17
+2023-04-28,Starter Motor,Delhi,65
+2023-04-28,Suspension System,kerala,86
+2023-04-28,Fuel Pump,chennai,13
+2023-04-28,Exhaust System,kolkata,47
+2023-04-28,Battery,kerala,40
+2023-04-29,silenser,kerala,56
+2023-04-29,Engine,kerala,76
+2023-04-29,Transmission,chennai,53
+2023-04-29,Brake Pads,chennai,90
+2023-04-29,Alternator,mumbai,92
+2023-04-29,Starter Motor,rajasthan,15
+2023-04-29,Suspension System,kerala,55
+2023-04-29,Fuel Pump,kolkata,88
+2023-04-29,Exhaust System,Mangalore,98
+2023-04-29,Battery,punjab,74
+2023-04-30,silenser,punjab,3
+2023-04-30,Engine,punjab,85
+2023-04-30,Transmission,kerala,1
+2023-04-30,Brake Pads,punjab,91
+2023-04-30,Alternator,Delhi,81
+2023-04-30,Starter Motor,Delhi,51
+2023-04-30,Suspension System,kerala,61
+2023-04-30,Fuel Pump,kolkata,92
+2023-04-30,Exhaust System,mumbai,92
+2023-04-30,Battery,Delhi,94
+2023-05-01,silenser,chennai,21
+2023-05-01,Engine,kerala,26
+2023-05-01,Transmission,Delhi,0
+2023-05-01,Brake Pads,Delhi,76
+2023-05-01,Alternator,chennai,74
+2023-05-01,Starter Motor,rajasthan,25
+2023-05-01,Suspension System,chennai,15
+2023-05-01,Fuel Pump,Delhi,83
+2023-05-01,Exhaust System,kerala,10
+2023-05-01,Battery,punjab,29
+2023-05-02,silenser,Mangalore,32
+2023-05-02,Engine,Bangalore,51
+2023-05-02,Transmission,Mangalore,71
+2023-05-02,Brake Pads,kerala,80
+2023-05-02,Alternator,Delhi,25
+2023-05-02,Starter Motor,Bangalore,75
+2023-05-02,Suspension System,rajasthan,91
+2023-05-02,Fuel Pump,kolkata,75
+2023-05-02,Exhaust System,Mangalore,34
+2023-05-02,Battery,punjab,26
+2023-05-03,silenser,Mangalore,47
+2023-05-03,Engine,kerala,23
+2023-05-03,Transmission,rajasthan,98
+2023-05-03,Brake Pads,punjab,39
+2023-05-03,Alternator,mumbai,89
+2023-05-03,Starter Motor,Delhi,13
+2023-05-03,Suspension System,Mangalore,79
+2023-05-03,Fuel Pump,Bangalore,64
+2023-05-03,Exhaust System,rajasthan,38
+2023-05-03,Battery,Bangalore,76
+2023-05-04,silenser,Bangalore,77
+2023-05-04,Engine,rajasthan,8
+2023-05-04,Transmission,punjab,28
+2023-05-04,Brake Pads,chennai,11
+2023-05-04,Alternator,rajasthan,55
+2023-05-04,Starter Motor,mumbai,42
+2023-05-04,Suspension System,kerala,0
+2023-05-04,Fuel Pump,Mangalore,63
+2023-05-04,Exhaust System,kerala,41
+2023-05-04,Battery,punjab,28
+2023-05-05,silenser,punjab,4
+2023-05-05,Engine,kolkata,90
+2023-05-05,Transmission,punjab,96
+2023-05-05,Brake Pads,kolkata,94
+2023-05-05,Alternator,punjab,5
+2023-05-05,Starter Motor,Mangalore,75
+2023-05-05,Suspension System,Bangalore,73
+2023-05-05,Fuel Pump,mumbai,42
+2023-05-05,Exhaust System,rajasthan,7
+2023-05-05,Battery,Delhi,33
+2023-05-06,silenser,mumbai,55
+2023-05-06,Engine,rajasthan,13
+2023-05-06,Transmission,kolkata,29
+2023-05-06,Brake Pads,Bangalore,51
+2023-05-06,Alternator,punjab,58
+2023-05-06,Starter Motor,mumbai,65
+2023-05-06,Suspension System,Bangalore,64
+2023-05-06,Fuel Pump,punjab,38
+2023-05-06,Exhaust System,Delhi,36
+2023-05-06,Battery,Bangalore,25
+2023-05-07,silenser,kerala,16
+2023-05-07,Engine,rajasthan,81
+2023-05-07,Transmission,rajasthan,46
+2023-05-07,Brake Pads,rajasthan,80
+2023-05-07,Alternator,chennai,6
+2023-05-07,Starter Motor,mumbai,9
+2023-05-07,Suspension System,punjab,15
+2023-05-07,Fuel Pump,rajasthan,21
+2023-05-07,Exhaust System,Bangalore,27
+2023-05-07,Battery,chennai,0
+2023-05-08,silenser,chennai,2
+2023-05-08,Engine,Delhi,56
+2023-05-08,Transmission,Bangalore,36
+2023-05-08,Brake Pads,kerala,11
+2023-05-08,Alternator,Bangalore,85
+2023-05-08,Starter Motor,Delhi,48
+2023-05-08,Suspension System,Bangalore,74
+2023-05-08,Fuel Pump,Delhi,65
+2023-05-08,Exhaust System,kolkata,8
+2023-05-08,Battery,rajasthan,22
+2023-05-09,silenser,Delhi,32
+2023-05-09,Engine,Delhi,95
+2023-05-09,Transmission,chennai,92
+2023-05-09,Brake Pads,kolkata,9
+2023-05-09,Alternator,kolkata,45
+2023-05-09,Starter Motor,kolkata,86
+2023-05-09,Suspension System,Delhi,58
+2023-05-09,Fuel Pump,punjab,2
+2023-05-09,Exhaust System,Delhi,56
+2023-05-09,Battery,Bangalore,61
+2023-05-10,silenser,Bangalore,49
+2023-05-10,Engine,Delhi,48
+2023-05-10,Transmission,punjab,65
+2023-05-10,Brake Pads,kerala,66
+2023-05-10,Alternator,kerala,28
+2023-05-10,Starter Motor,chennai,46
+2023-05-10,Suspension System,Mangalore,21
+2023-05-10,Fuel Pump,kerala,33
+2023-05-10,Exhaust System,kerala,63
+2023-05-10,Battery,Bangalore,84
+2023-05-11,silenser,rajasthan,73
+2023-05-11,Engine,rajasthan,80
+2023-05-11,Transmission,Mangalore,65
+2023-05-11,Brake Pads,kerala,81
+2023-05-11,Alternator,mumbai,34
+2023-05-11,Starter Motor,Mangalore,84
+2023-05-11,Suspension System,Bangalore,59
+2023-05-11,Fuel Pump,chennai,15
+2023-05-11,Exhaust System,Delhi,94
+2023-05-11,Battery,mumbai,65
+2023-05-12,silenser,Bangalore,67
+2023-05-12,Engine,punjab,56
+2023-05-12,Transmission,kerala,25
+2023-05-12,Brake Pads,Mangalore,98
+2023-05-12,Alternator,kerala,94
+2023-05-12,Starter Motor,chennai,81
+2023-05-12,Suspension System,kolkata,78
+2023-05-12,Fuel Pump,rajasthan,51
+2023-05-12,Exhaust System,rajasthan,37
+2023-05-12,Battery,punjab,52
+2023-05-13,silenser,chennai,99
+2023-05-13,Engine,punjab,88
+2023-05-13,Transmission,Bangalore,36
+2023-05-13,Brake Pads,chennai,18
+2023-05-13,Alternator,Mangalore,67
+2023-05-13,Starter Motor,mumbai,68
+2023-05-13,Suspension System,rajasthan,56
+2023-05-13,Fuel Pump,mumbai,18
+2023-05-13,Exhaust System,rajasthan,94
+2023-05-13,Battery,kolkata,81
+2023-05-14,silenser,punjab,42
+2023-05-14,Engine,kerala,3
+2023-05-14,Transmission,punjab,3
+2023-05-14,Brake Pads,kolkata,43
+2023-05-14,Alternator,chennai,87
+2023-05-14,Starter Motor,rajasthan,41
+2023-05-14,Suspension System,Bangalore,47
+2023-05-14,Fuel Pump,mumbai,17
+2023-05-14,Exhaust System,kerala,34
+2023-05-14,Battery,chennai,86
+2023-05-15,silenser,kolkata,43
+2023-05-15,Engine,rajasthan,33
+2023-05-15,Transmission,kerala,13
+2023-05-15,Brake Pads,Bangalore,93
+2023-05-15,Alternator,Bangalore,15
+2023-05-15,Starter Motor,mumbai,5
+2023-05-15,Suspension System,chennai,61
+2023-05-15,Fuel Pump,Bangalore,48
+2023-05-15,Exhaust System,mumbai,24
+2023-05-15,Battery,kerala,35
+2023-05-16,silenser,rajasthan,77
+2023-05-16,Engine,rajasthan,58
+2023-05-16,Transmission,Mangalore,49
+2023-05-16,Brake Pads,rajasthan,57
+2023-05-16,Alternator,Mangalore,61
+2023-05-16,Starter Motor,punjab,2
+2023-05-16,Suspension System,kerala,62
+2023-05-16,Fuel Pump,chennai,45
+2023-05-16,Exhaust System,Mangalore,30
+2023-05-16,Battery,punjab,71
+2023-05-17,silenser,punjab,24
+2023-05-17,Engine,chennai,85
+2023-05-17,Transmission,Delhi,17
+2023-05-17,Brake Pads,rajasthan,54
+2023-05-17,Alternator,chennai,92
+2023-05-17,Starter Motor,kerala,41
+2023-05-17,Suspension System,mumbai,22
+2023-05-17,Fuel Pump,Delhi,75
+2023-05-17,Exhaust System,rajasthan,49
+2023-05-17,Battery,kerala,69
+2023-05-18,silenser,Bangalore,61
+2023-05-18,Engine,kerala,17
+2023-05-18,Transmission,kolkata,8
+2023-05-18,Brake Pads,rajasthan,7
+2023-05-18,Alternator,Bangalore,18
+2023-05-18,Starter Motor,kerala,69
+2023-05-18,Suspension System,punjab,29
+2023-05-18,Fuel Pump,punjab,2
+2023-05-18,Exhaust System,mumbai,68
+2023-05-18,Battery,kerala,44
+2023-05-19,silenser,rajasthan,56
+2023-05-19,Engine,punjab,25
+2023-05-19,Transmission,kerala,42
+2023-05-19,Brake Pads,kolkata,38
+2023-05-19,Alternator,kolkata,30
+2023-05-19,Starter Motor,punjab,19
+2023-05-19,Suspension System,mumbai,68
+2023-05-19,Fuel Pump,Bangalore,76
+2023-05-19,Exhaust System,kerala,33
+2023-05-19,Battery,rajasthan,86
+2023-05-20,silenser,kolkata,47
+2023-05-20,Engine,kerala,47
+2023-05-20,Transmission,Delhi,19
+2023-05-20,Brake Pads,rajasthan,100
+2023-05-20,Alternator,Mangalore,78
+2023-05-20,Starter Motor,Delhi,27
+2023-05-20,Suspension System,kerala,33
+2023-05-20,Fuel Pump,kolkata,100
+2023-05-20,Exhaust System,Mangalore,45
+2023-05-20,Battery,kolkata,5
+2023-05-21,silenser,punjab,74
+2023-05-21,Engine,Mangalore,38
+2023-05-21,Transmission,Bangalore,25
+2023-05-21,Brake Pads,kolkata,77
+2023-05-21,Alternator,kerala,95
+2023-05-21,Starter Motor,Delhi,13
+2023-05-21,Suspension System,mumbai,44
+2023-05-21,Fuel Pump,Bangalore,30
+2023-05-21,Exhaust System,Mangalore,68
+2023-05-21,Battery,punjab,3
+2023-05-22,silenser,kolkata,55
+2023-05-22,Engine,punjab,28
+2023-05-22,Transmission,punjab,37
+2023-05-22,Brake Pads,Delhi,59
+2023-05-22,Alternator,chennai,67
+2023-05-22,Starter Motor,Bangalore,22
+2023-05-22,Suspension System,mumbai,62
+2023-05-22,Fuel Pump,rajasthan,52
+2023-05-22,Exhaust System,kerala,92
+2023-05-22,Battery,Bangalore,71
+2023-05-23,silenser,kerala,24
+2023-05-23,Engine,kerala,60
+2023-05-23,Transmission,Delhi,83
+2023-05-23,Brake Pads,rajasthan,95
+2023-05-23,Alternator,punjab,73
+2023-05-23,Starter Motor,kerala,16
+2023-05-23,Suspension System,Delhi,28
+2023-05-23,Fuel Pump,punjab,15
+2023-05-23,Exhaust System,mumbai,77
+2023-05-23,Battery,Delhi,93
+2023-05-24,silenser,punjab,78
+2023-05-24,Engine,kolkata,98
+2023-05-24,Transmission,mumbai,90
+2023-05-24,Brake Pads,kolkata,16
+2023-05-24,Alternator,mumbai,91
+2023-05-24,Starter Motor,Bangalore,60
+2023-05-24,Suspension System,kerala,98
+2023-05-24,Fuel Pump,Bangalore,59
+2023-05-24,Exhaust System,Bangalore,39
+2023-05-24,Battery,punjab,64
+2023-05-25,silenser,kerala,59
+2023-05-25,Engine,chennai,44
+2023-05-25,Transmission,mumbai,93
+2023-05-25,Brake Pads,Delhi,91
+2023-05-25,Alternator,chennai,72
+2023-05-25,Starter Motor,Delhi,47
+2023-05-25,Suspension System,rajasthan,2
+2023-05-25,Fuel Pump,kolkata,38
+2023-05-25,Exhaust System,rajasthan,9
+2023-05-25,Battery,Delhi,18
+2023-05-26,silenser,Mangalore,48
+2023-05-26,Engine,Mangalore,52
+2023-05-26,Transmission,rajasthan,1
+2023-05-26,Brake Pads,mumbai,74
+2023-05-26,Alternator,kerala,0
+2023-05-26,Starter Motor,rajasthan,78
+2023-05-26,Suspension System,punjab,89
+2023-05-26,Fuel Pump,Delhi,47
+2023-05-26,Exhaust System,Mangalore,55
+2023-05-26,Battery,chennai,22
+2023-05-27,silenser,kolkata,15
+2023-05-27,Engine,Bangalore,2
+2023-05-27,Transmission,punjab,94
+2023-05-27,Brake Pads,Mangalore,65
+2023-05-27,Alternator,kerala,40
+2023-05-27,Starter Motor,Delhi,45
+2023-05-27,Suspension System,punjab,81
+2023-05-27,Fuel Pump,Mangalore,45
+2023-05-27,Exhaust System,kolkata,16
+2023-05-27,Battery,punjab,69
+2023-05-28,silenser,mumbai,2
+2023-05-28,Engine,Mangalore,84
+2023-05-28,Transmission,Mangalore,89
+2023-05-28,Brake Pads,rajasthan,87
+2023-05-28,Alternator,kolkata,48
+2023-05-28,Starter Motor,Mangalore,89
+2023-05-28,Suspension System,punjab,55
+2023-05-28,Fuel Pump,mumbai,59
+2023-05-28,Exhaust System,Mangalore,27
+2023-05-28,Battery,kerala,8
+2023-05-29,silenser,chennai,87
+2023-05-29,Engine,Bangalore,11
+2023-05-29,Transmission,chennai,33
+2023-05-29,Brake Pads,rajasthan,73
+2023-05-29,Alternator,chennai,16
+2023-05-29,Starter Motor,mumbai,43
+2023-05-29,Suspension System,chennai,12
+2023-05-29,Fuel Pump,rajasthan,1
+2023-05-29,Exhaust System,Delhi,28
+2023-05-29,Battery,chennai,1
+2023-05-30,silenser,chennai,34
+2023-05-30,Engine,Delhi,77
+2023-05-30,Transmission,mumbai,25
+2023-05-30,Brake Pads,Mangalore,59
+2023-05-30,Alternator,kerala,9
+2023-05-30,Starter Motor,Delhi,8
+2023-05-30,Suspension System,Bangalore,98
+2023-05-30,Fuel Pump,Delhi,95
+2023-05-30,Exhaust System,kolkata,43
+2023-05-30,Battery,kerala,78
+2023-05-31,silenser,Mangalore,67
+2023-05-31,Engine,punjab,5
+2023-05-31,Transmission,Mangalore,43
+2023-05-31,Brake Pads,Mangalore,36
+2023-05-31,Alternator,kerala,27
+2023-05-31,Starter Motor,kolkata,81
+2023-05-31,Suspension System,mumbai,66
+2023-05-31,Fuel Pump,kerala,16
+2023-05-31,Exhaust System,chennai,31
+2023-05-31,Battery,chennai,99
+2023-06-01,silenser,Bangalore,41
+2023-06-01,Engine,punjab,22
+2023-06-01,Transmission,kolkata,20
+2023-06-01,Brake Pads,kerala,67
+2023-06-01,Alternator,punjab,100
+2023-06-01,Starter Motor,punjab,1
+2023-06-01,Suspension System,chennai,30
+2023-06-01,Fuel Pump,chennai,10
+2023-06-01,Exhaust System,Bangalore,7
+2023-06-01,Battery,rajasthan,12
+2023-06-02,silenser,kolkata,45
+2023-06-02,Engine,Bangalore,48
+2023-06-02,Transmission,punjab,15
+2023-06-02,Brake Pads,Bangalore,53
+2023-06-02,Alternator,Mangalore,8
+2023-06-02,Starter Motor,kolkata,59
+2023-06-02,Suspension System,Bangalore,8
+2023-06-02,Fuel Pump,punjab,14
+2023-06-02,Exhaust System,rajasthan,32
+2023-06-02,Battery,kolkata,0
+2023-06-03,silenser,kolkata,34
+2023-06-03,Engine,rajasthan,11
+2023-06-03,Transmission,punjab,69
+2023-06-03,Brake Pads,rajasthan,85
+2023-06-03,Alternator,kerala,79
+2023-06-03,Starter Motor,Bangalore,83
+2023-06-03,Suspension System,kerala,37
+2023-06-03,Fuel Pump,Mangalore,27
+2023-06-03,Exhaust System,kolkata,24
+2023-06-03,Battery,Mangalore,9
+2023-06-04,silenser,punjab,34
+2023-06-04,Engine,mumbai,33
+2023-06-04,Transmission,Mangalore,54
+2023-06-04,Brake Pads,kerala,42
+2023-06-04,Alternator,Mangalore,45
+2023-06-04,Starter Motor,punjab,87
+2023-06-04,Suspension System,chennai,51
+2023-06-04,Fuel Pump,Mangalore,27
+2023-06-04,Exhaust System,Mangalore,6
+2023-06-04,Battery,Delhi,57
+2023-06-05,silenser,Bangalore,12
+2023-06-05,Engine,rajasthan,79
+2023-06-05,Transmission,kerala,87
+2023-06-05,Brake Pads,punjab,30
+2023-06-05,Alternator,Bangalore,23
+2023-06-05,Starter Motor,Mangalore,27
+2023-06-05,Suspension System,rajasthan,90
+2023-06-05,Fuel Pump,Mangalore,14
+2023-06-05,Exhaust System,punjab,58
+2023-06-05,Battery,rajasthan,83
+2023-06-06,silenser,Bangalore,34
+2023-06-06,Engine,Mangalore,97
+2023-06-06,Transmission,Mangalore,37
+2023-06-06,Brake Pads,chennai,31
+2023-06-06,Alternator,punjab,9
+2023-06-06,Starter Motor,Delhi,4
+2023-06-06,Suspension System,Bangalore,33
+2023-06-06,Fuel Pump,punjab,27
+2023-06-06,Exhaust System,punjab,15
+2023-06-06,Battery,punjab,31
+2023-06-07,silenser,rajasthan,51
+2023-06-07,Engine,chennai,35
+2023-06-07,Transmission,chennai,76
+2023-06-07,Brake Pads,mumbai,63
+2023-06-07,Alternator,rajasthan,90
+2023-06-07,Starter Motor,chennai,60
+2023-06-07,Suspension System,Bangalore,71
+2023-06-07,Fuel Pump,punjab,69
+2023-06-07,Exhaust System,kerala,0
+2023-06-07,Battery,rajasthan,18
+2023-06-08,silenser,rajasthan,60
+2023-06-08,Engine,kolkata,70
+2023-06-08,Transmission,punjab,81
+2023-06-08,Brake Pads,kolkata,9
+2023-06-08,Alternator,Bangalore,76
+2023-06-08,Starter Motor,Mangalore,38
+2023-06-08,Suspension System,Delhi,17
+2023-06-08,Fuel Pump,Bangalore,68
+2023-06-08,Exhaust System,Bangalore,80
+2023-06-08,Battery,kolkata,25
+2023-06-09,silenser,rajasthan,9
+2023-06-09,Engine,rajasthan,89
+2023-06-09,Transmission,Mangalore,19
+2023-06-09,Brake Pads,Bangalore,11
+2023-06-09,Alternator,Delhi,88
+2023-06-09,Starter Motor,punjab,31
+2023-06-09,Suspension System,kolkata,7
+2023-06-09,Fuel Pump,Delhi,25
+2023-06-09,Exhaust System,Delhi,0
+2023-06-09,Battery,mumbai,84
+2023-06-10,silenser,Delhi,0
+2023-06-10,Engine,Mangalore,18
+2023-06-10,Transmission,rajasthan,18
+2023-06-10,Brake Pads,punjab,72
+2023-06-10,Alternator,chennai,68
+2023-06-10,Starter Motor,kerala,98
+2023-06-10,Suspension System,kerala,23
+2023-06-10,Fuel Pump,kerala,66
+2023-06-10,Exhaust System,mumbai,93
+2023-06-10,Battery,Delhi,57
+2023-06-11,silenser,Mangalore,2
+2023-06-11,Engine,rajasthan,37
+2023-06-11,Transmission,Bangalore,26
+2023-06-11,Brake Pads,kerala,75
+2023-06-11,Alternator,Delhi,90
+2023-06-11,Starter Motor,Bangalore,41
+2023-06-11,Suspension System,mumbai,69
+2023-06-11,Fuel Pump,mumbai,6
+2023-06-11,Exhaust System,mumbai,12
+2023-06-11,Battery,rajasthan,41
+2023-06-12,silenser,kerala,22
+2023-06-12,Engine,mumbai,38
+2023-06-12,Transmission,mumbai,77
+2023-06-12,Brake Pads,Mangalore,9
+2023-06-12,Alternator,Bangalore,78
+2023-06-12,Starter Motor,kolkata,96
+2023-06-12,Suspension System,Delhi,84
+2023-06-12,Fuel Pump,Mangalore,8
+2023-06-12,Exhaust System,Bangalore,10
+2023-06-12,Battery,Mangalore,9
+2023-06-13,silenser,punjab,71
+2023-06-13,Engine,mumbai,34
+2023-06-13,Transmission,mumbai,37
+2023-06-13,Brake Pads,Mangalore,70
+2023-06-13,Alternator,Mangalore,87
+2023-06-13,Starter Motor,mumbai,56
+2023-06-13,Suspension System,kerala,99
+2023-06-13,Fuel Pump,Mangalore,21
+2023-06-13,Exhaust System,chennai,26
+2023-06-13,Battery,Bangalore,39
+2023-06-14,silenser,kolkata,44
+2023-06-14,Engine,mumbai,95
+2023-06-14,Transmission,Bangalore,66
+2023-06-14,Brake Pads,rajasthan,24
+2023-06-14,Alternator,Mangalore,49
+2023-06-14,Starter Motor,punjab,68
+2023-06-14,Suspension System,Mangalore,90
+2023-06-14,Fuel Pump,punjab,31
+2023-06-14,Exhaust System,punjab,4
+2023-06-14,Battery,Mangalore,84
+2023-06-15,silenser,rajasthan,47
+2023-06-15,Engine,rajasthan,14
+2023-06-15,Transmission,Bangalore,78
+2023-06-15,Brake Pads,mumbai,68
+2023-06-15,Alternator,rajasthan,42
+2023-06-15,Starter Motor,chennai,29
+2023-06-15,Suspension System,punjab,100
+2023-06-15,Fuel Pump,mumbai,77
+2023-06-15,Exhaust System,Delhi,38
+2023-06-15,Battery,rajasthan,41
+2023-06-16,silenser,kolkata,95
+2023-06-16,Engine,punjab,60
+2023-06-16,Transmission,Bangalore,72
+2023-06-16,Brake Pads,chennai,67
+2023-06-16,Alternator,kerala,9
+2023-06-16,Starter Motor,punjab,21
+2023-06-16,Suspension System,Delhi,2
+2023-06-16,Fuel Pump,kolkata,40
+2023-06-16,Exhaust System,kerala,25
+2023-06-16,Battery,mumbai,12
+2023-06-17,silenser,chennai,91
+2023-06-17,Engine,Bangalore,61
+2023-06-17,Transmission,kolkata,50
+2023-06-17,Brake Pads,Delhi,91
+2023-06-17,Alternator,Delhi,38
+2023-06-17,Starter Motor,mumbai,39
+2023-06-17,Suspension System,mumbai,30
+2023-06-17,Fuel Pump,chennai,1
+2023-06-17,Exhaust System,Bangalore,35
+2023-06-17,Battery,Mangalore,73
+2023-06-18,silenser,Mangalore,67
+2023-06-18,Engine,chennai,98
+2023-06-18,Transmission,kolkata,86
+2023-06-18,Brake Pads,kolkata,60
+2023-06-18,Alternator,Mangalore,39
+2023-06-18,Starter Motor,rajasthan,29
+2023-06-18,Suspension System,rajasthan,93
+2023-06-18,Fuel Pump,rajasthan,35
+2023-06-18,Exhaust System,mumbai,51
+2023-06-18,Battery,mumbai,33
+2023-06-19,silenser,mumbai,92
+2023-06-19,Engine,kerala,63
+2023-06-19,Transmission,Bangalore,63
+2023-06-19,Brake Pads,Delhi,2
+2023-06-19,Alternator,kolkata,71
+2023-06-19,Starter Motor,chennai,87
+2023-06-19,Suspension System,Bangalore,68
+2023-06-19,Fuel Pump,kolkata,29
+2023-06-19,Exhaust System,kolkata,15
+2023-06-19,Battery,kolkata,23
+2023-06-20,silenser,kerala,51
+2023-06-20,Engine,Bangalore,98
+2023-06-20,Transmission,kerala,87
+2023-06-20,Brake Pads,Delhi,11
+2023-06-20,Alternator,Bangalore,95
+2023-06-20,Starter Motor,kerala,1
+2023-06-20,Suspension System,kerala,93
+2023-06-20,Fuel Pump,kolkata,44
+2023-06-20,Exhaust System,punjab,91
+2023-06-20,Battery,rajasthan,69
+2023-06-21,silenser,kolkata,3
+2023-06-21,Engine,rajasthan,94
+2023-06-21,Transmission,mumbai,59
+2023-06-21,Brake Pads,Bangalore,84
+2023-06-21,Alternator,rajasthan,66
+2023-06-21,Starter Motor,mumbai,50
+2023-06-21,Suspension System,Delhi,37
+2023-06-21,Fuel Pump,Delhi,44
+2023-06-21,Exhaust System,Bangalore,64
+2023-06-21,Battery,kerala,53
+2023-06-22,silenser,punjab,51
+2023-06-22,Engine,kerala,92
+2023-06-22,Transmission,kolkata,29
+2023-06-22,Brake Pads,mumbai,83
+2023-06-22,Alternator,mumbai,83
+2023-06-22,Starter Motor,rajasthan,60
+2023-06-22,Suspension System,Bangalore,13
+2023-06-22,Fuel Pump,rajasthan,61
+2023-06-22,Exhaust System,Delhi,77
+2023-06-22,Battery,Delhi,15
+2023-06-23,silenser,rajasthan,75
+2023-06-23,Engine,Mangalore,52
+2023-06-23,Transmission,kolkata,63
+2023-06-23,Brake Pads,rajasthan,74
+2023-06-23,Alternator,kerala,23
+2023-06-23,Starter Motor,kolkata,74
+2023-06-23,Suspension System,chennai,96
+2023-06-23,Fuel Pump,kolkata,90
+2023-06-23,Exhaust System,Delhi,74
+2023-06-23,Battery,kolkata,42
+2023-06-24,silenser,Bangalore,10
+2023-06-24,Engine,kolkata,59
+2023-06-24,Transmission,Mangalore,52
+2023-06-24,Brake Pads,kerala,15
+2023-06-24,Alternator,kerala,10
+2023-06-24,Starter Motor,chennai,11
+2023-06-24,Suspension System,Mangalore,48
+2023-06-24,Fuel Pump,chennai,65
+2023-06-24,Exhaust System,punjab,20
+2023-06-24,Battery,kerala,35
+2023-06-25,silenser,mumbai,58
+2023-06-25,Engine,Bangalore,48
+2023-06-25,Transmission,Delhi,38
+2023-06-25,Brake Pads,mumbai,56
+2023-06-25,Alternator,mumbai,33
+2023-06-25,Starter Motor,chennai,56
+2023-06-25,Suspension System,mumbai,6
+2023-06-25,Fuel Pump,Delhi,16
+2023-06-25,Exhaust System,rajasthan,97
+2023-06-25,Battery,Bangalore,16
+2023-06-26,silenser,Delhi,67
+2023-06-26,Engine,kerala,43
+2023-06-26,Transmission,Mangalore,78
+2023-06-26,Brake Pads,Delhi,91
+2023-06-26,Alternator,rajasthan,72
+2023-06-26,Starter Motor,kerala,7
+2023-06-26,Suspension System,Bangalore,29
+2023-06-26,Fuel Pump,kerala,6
+2023-06-26,Exhaust System,Mangalore,76
+2023-06-26,Battery,Delhi,19
+2023-06-27,silenser,kolkata,60
+2023-06-27,Engine,kolkata,87
+2023-06-27,Transmission,Delhi,92
+2023-06-27,Brake Pads,kerala,7
+2023-06-27,Alternator,kolkata,67
+2023-06-27,Starter Motor,chennai,66
+2023-06-27,Suspension System,Delhi,11
+2023-06-27,Fuel Pump,kerala,93
+2023-06-27,Exhaust System,Mangalore,90
+2023-06-27,Battery,Mangalore,46
+2023-06-28,silenser,mumbai,29
+2023-06-28,Engine,punjab,80
+2023-06-28,Transmission,chennai,93
+2023-06-28,Brake Pads,chennai,46
+2023-06-28,Alternator,rajasthan,64
+2023-06-28,Starter Motor,Mangalore,100
+2023-06-28,Suspension System,Delhi,53
+2023-06-28,Fuel Pump,kerala,71
+2023-06-28,Exhaust System,rajasthan,15
+2023-06-28,Battery,Bangalore,88
+2023-06-29,silenser,chennai,38
+2023-06-29,Engine,chennai,77
+2023-06-29,Transmission,rajasthan,59
+2023-06-29,Brake Pads,Mangalore,16
+2023-06-29,Alternator,kolkata,29
+2023-06-29,Starter Motor,chennai,62
+2023-06-29,Suspension System,Delhi,4
+2023-06-29,Fuel Pump,Delhi,66
+2023-06-29,Exhaust System,kerala,34
+2023-06-29,Battery,Mangalore,96
+2023-06-30,silenser,mumbai,74
+2023-06-30,Engine,kolkata,55
+2023-06-30,Transmission,kolkata,94
+2023-06-30,Brake Pads,kolkata,89
+2023-06-30,Alternator,chennai,74
+2023-06-30,Starter Motor,Mangalore,55
+2023-06-30,Suspension System,rajasthan,30
+2023-06-30,Fuel Pump,Delhi,79
+2023-06-30,Exhaust System,punjab,32
+2023-06-30,Battery,kerala,57
+2023-07-01,silenser,kolkata,82
+2023-07-01,Engine,rajasthan,41
+2023-07-01,Transmission,Mangalore,69
+2023-07-01,Brake Pads,mumbai,43
+2023-07-01,Alternator,Mangalore,35
+2023-07-01,Starter Motor,punjab,13
+2023-07-01,Suspension System,rajasthan,6
+2023-07-01,Fuel Pump,kolkata,33
+2023-07-01,Exhaust System,kolkata,12
+2023-07-01,Battery,punjab,27
